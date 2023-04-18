@@ -1,4 +1,4 @@
-#code taken from
+
 from PIL import Image, ImageOps
 import math
 
